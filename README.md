@@ -20,7 +20,7 @@ I build custom WordPress websites for real businesses, agencies, and organizatio
 
 <table>
 <tr>
-<td width="100%" valign="top">
+<td colspan="2" width="100%" valign="top">
 
 ### 🔹 Project Manager & Co-Founder — FabioLabs
 
@@ -53,6 +53,7 @@ Started my professional web development journey at Alokio as a Web Development I
 </td>
 </tr>
 </table>
+
 
 
 ---
