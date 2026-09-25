@@ -1,152 +1,237 @@
-<h1 align="center">Hi, I'm Sohag Hossen 👋</h1>
-<h3 align="center">WordPress Developer — Custom Themes, Plugins, Dynamic Content & Performance-Focused Builds</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white" />
-  <img src="https://img.shields.io/badge/ACF-2585BA?style=flat" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-</p>
+# Hi, I'm Esrat Jahan Sweety 👋
 
-I build custom WordPress websites for real businesses, agencies, and organizations — from custom themes and plugins to dynamic, data-driven content systems. My work spans nonprofits, legal and financial services, cybersecurity companies, retail/e-commerce brands, and travel businesses across the US, Thailand, and beyond. I care about clean code, maintainable architecture, and websites that stay fast and reliable in production — not just at launch.
+### Senior Web Developer specializing in WordPress development, custom web solutions, and modern frontend implementation
 
----
+[![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)](#)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](#)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](#)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](#)
+[![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white)](#)
+[![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat&logo=elementor&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](#)
 
-## What I Do
+</div>
 
-- **Custom WordPress Development** — bespoke themes and site architecture built around a client's actual content model, not a generic template
-- **Custom Plugin Development** — purpose-built functionality when off-the-shelf plugins don't fit
-- **Page Builder Development** — production builds with **Bricks Builder** and **Elementor**
-- **ACF / ACF Pro Development** — structured, editor-friendly dynamic content
-- **WooCommerce Development** — product catalogs, custom taxonomies, and gated/wholesale pricing flows
-- **API & Third-Party Integrations** — CRMs, ticketing platforms, booking systems, messaging (LINE), review widgets, and data platforms
-- **Multilingual WordPress (WPML)** — bilingual and multi-region site builds
-- **Performance Optimization** — caching, asset delivery, and Core Web Vitals-conscious builds
-- **WordPress Security & Maintenance** — hardening, updates, and ongoing troubleshooting
-- **Responsive, Cross-Browser Front-End Implementation**
+I'm a WordPress and web developer with real-world, client-facing development experience — currently working as a **Senior Web Developer at FabioLabs**, following an earlier **Web Development Internship at Alokio**. My work spans custom WordPress builds, page-builder-driven sites (Bricks, Elementor), dynamic content systems, WooCommerce implementations, and ongoing website maintenance and troubleshooting across a range of industries.
 
 ---
 
-## Technical Stack
+## 📈 Career Snapshot
+
+```
+Senior Web Developer — FabioLabs
+        Current
+            ↓
+Web Development Intern — Alokio
+      Previous Experience
+```
+
+---
+
+## 💼 Experience
+
+### Senior Web Developer — FabioLabs
+*Current*
+
+FabioLabs is a web development agency offering website design & development, website maintenance, e-commerce (WooCommerce) solutions, SEO, website security, and malware removal services. In this role, my work centers on:
+
+- Custom WordPress development and site builds
+- Frontend implementation and responsive layout work
+- Dynamic content structures using ACF / ACF Pro
+- Page-builder development with Bricks and Elementor
+- WooCommerce store setup and configuration
+- Website maintenance, updates, and troubleshooting
+
+*(Specific client assignments, exact dates, and team structure are not publicly documented and are not claimed here.)*
+
+### Web Development Intern — Alokio
+*Previous Experience*
+
+An early-career internship that built the foundation for my professional web development path, developing hands-on experience with front-end and WordPress fundamentals before moving into a full development role. Public information verifying further internship-specific details was not available, so no additional claims are made about this period.
+
+---
+
+## 🛠️ What I Do
+
+- WordPress Development
+- Custom WordPress Development
+- ACF / ACF Pro (dynamic content)
+- Bricks Builder
+- Elementor
+- WooCommerce
+- PHP
+- JavaScript
+- Responsive Web Development
+- Website Maintenance & Troubleshooting
+
+---
+
+## 🧰 Technical Stack
 
 **WordPress**
-`WordPress Core` · `Custom Themes` · `Custom Plugins` · `ACF / ACF Pro` · `WooCommerce` · `WPML`
-
-**Page Builders**
-`Bricks Builder` · `Elementor` · `WPBakery Page Builder`
+`WordPress` `ACF` `ACF Pro` `WooCommerce`
 
 **Frontend**
-`HTML5` · `CSS3` · `JavaScript` · `jQuery`
+`HTML5` `CSS3` `JavaScript` `jQuery`
+
+**Page Builders**
+`Bricks Builder` `Elementor`
 
 **Backend**
-`PHP` · `WordPress REST API` · `Third-Party API Integrations`
+`PHP` `WordPress APIs` `REST APIs`
 
-**Tools & Workflow**
-`Git` · `GitHub` · `LocalWP` · `Query Monitor` · `Chrome DevTools`
-
----
-
-## Selected Projects
-
-I've worked as a WordPress developer on the following live, production websites. Descriptions reflect what's publicly observable on each site; technology is only listed where reasonably verifiable (page-builder signatures, plugin footprints, multilingual configuration, etc.).
-
-| Project | Industry / Type | Notable Tech | Site |
-|---|---|---|---|
-| East 86th Street Association | Nonprofit / Community Association | WordPress, custom theme, blog & news system | [Visit](https://east86th.org/) |
-| Activate Advocacy | Marketing / Political & Public Affairs | WordPress, custom theme, video hero, dynamic forms | [Visit](https://activateadvocacy.co/) |
-| Rob's Soaring Costs | Political Advocacy Microsite | WordPress, custom theme, interactive data storytelling, video | [Visit](https://robssoaringcosts.com/) |
-| BYkids | Nonprofit / Education & Documentary Media | WordPress, custom post types (films, mentors, resources), video | [Visit](https://bykids.org) |
-| CODISCOVR | Legal / eDiscovery Services | WordPress, Slider Revolution, testimonials & newsletter | [Visit](https://codiscovr.com/) |
-| Cynclair | Cybersecurity / AI-Powered MXDR SaaS | WordPress, **Bricks Builder**, **WPML** (EN/TH), FAQ system | [Visit](https://www.cynclair.com/) |
-| Design It For Dev | Development / Staging Environment | WP Engine-hosted; limited public detail | [Visit](https://designitfordev.wpengine.com/) |
-| Edu Asia | Education / International Capacity Development | WordPress | [Visit](https://www.eduasia.info/) |
-| The Cover-Up (Epstein Files Project) | Investigative Journalism / Media | WordPress, custom theme, external data-platform integration | [Visit](https://epsteincoverup.us/) |
-| Fresh Ready Thailand | Food & Health / Ready-to-Cook Meals | WordPress, **Bricks Builder**, **WPML** (TH/EN), custom content types | [Visit](https://freshreadythailand.com/) |
-| Kai IT | Technology / IT Hardware & Software Solutions | WordPress, **Bricks Builder**, **WPML** (TH/EN) | [Visit](https://kai.co.th/en/) |
-| KAO Aesthetics | Healthcare / Medical Aesthetics | WordPress, **Bricks Builder**, extensive service architecture | [Visit](https://kaoaesthetics.com/) |
-| Katrina20 | Nonprofit / Commemorative Event | WordPress, **Elementor**, custom theme, video, RSVP/donate flows | [Visit](https://katrina20.com/) |
-| King Global Prod | Development / Staging Environment | WP Engine-hosted; limited public detail | [Visit](https://kingglobalprod.wpenginepowered.com/) |
-| Kloudify | Technology / Managed IT & Cybersecurity | WordPress, **Bricks Builder**, WP Rocket, gated content, case studies | [Visit](https://kloudify.com/) |
-| MJets | Travel / Private Aviation Charter | WordPress, **Bricks Builder**, quote-booking widget | [Visit](https://mjets.com/) |
-| Moms First | Nonprofit / Advocacy | WordPress, custom theme, video header, external donation/shop | [Visit](https://momsfirst.us/) |
-| National Subrogation Services | Legal / Insurance Recovery | WordPress, **Elementor**, Mailchimp, external claims portal | [Visit](https://www.nationalsubrogation.com/) |
-| Navigator Research | Research / Public Opinion Polling | WordPress, **WPBakery Page Builder**, data-driven report system | [Visit](https://navigatorresearch.org/) |
-| Portland Fire Premium | Sports / Entertainment (WNBA) | WordPress, custom theme, Ticketmaster/Formstack integrations | [Visit](https://premium.theportlandfire.com/) |
-| Unrig Our Economy | Nonprofit / Economic Policy Advocacy | WordPress, custom theme, custom campaign content types | [Visit](https://unrigoureconomy.com/) |
-| S.S. Agencies | E-commerce / Gemstone Wholesale | WordPress, **WooCommerce**, **Bricks Builder**, gated wholesale pricing | [Visit](https://ssagencies.com/) |
-| Furteak Furniture | E-commerce / Teak Furniture Manufacturing | WordPress, **WooCommerce**, **Bricks Builder**, bilingual TH/EN | [Visit](https://www.furteak-th.com/) |
-| Group 4 Wheels | Automotive / Motorsport Wheel Manufacturing | Brand website; limited public technical detail | [Visit](https://group4wheels.com/) |
-| Annie's Animal Ark | Travel / Pet Relocation Services | WordPress; staging rebuild on **Bricks Builder** | [Live](https://www.anniesanimalark.com/) · [Staging](https://animalark.fabiolabs.com/) |
-| Island T.E.A. Experiences | Travel & Hospitality / Villa Rentals | WordPress, **Elementor**, custom accommodation content types, booking widget | [Visit](https://islandexperiences.co/) |
-
-> **Note on Annie's Animal Ark:** the production site and its staging/development environment (`animalark.fabiolabs.com`) represent one ongoing project — a modernization of the legacy site into a Bricks Builder-based rebuild.
+**Tools**
+`Git` `GitHub`
 
 ---
 
-## Project Categorization
+## 🚀 Selected Projects
 
-- **Nonprofit & Advocacy:** East 86th Street Association, Activate Advocacy, Rob's Soaring Costs, BYkids, The Cover-Up, Moms First, Navigator Research, Unrig Our Economy, Katrina20
-- **Legal & Financial Services:** CODISCOVR, National Subrogation Services
-- **Technology & Cybersecurity:** Cynclair, Kai IT, Kloudify
-- **Healthcare & Wellness:** KAO Aesthetics, Fresh Ready Thailand
-- **E-commerce & Retail:** S.S. Agencies, Furteak Furniture
-- **Travel, Hospitality & Aviation:** MJets, Island T.E.A. Experiences, Annie's Animal Ark
-- **Sports & Entertainment:** Portland Fire Premium
-- **Education:** Edu Asia
-- **Automotive:** Group 4 Wheels
-- **Development / Staging:** Design It For Dev, King Global Prod
+Projects below reflect development work on live client and organizational websites. Technologies listed for each project are limited to what could be reasonably confirmed through direct research; nothing is assumed.
 
-This spread — nonprofits and political advocacy, regulated legal/insurance services, cybersecurity SaaS, medical aesthetics, multilingual e-commerce, and travel/booking platforms — reflects hands-on WordPress development across very different technical and content requirements.
+### Fresh Ready Thailand
+**Industry:** Food & Health
+**Type:** Bilingual (Thai/English) brand website
+**Development Focus:** WordPress with Bricks Builder and WPML multilingual setup
+**Role:** Web / WordPress Developer
+
+A ready-to-cook, health-focused meal brand site featuring a bilingual content structure, product/menu pages, and LINE-based ordering integration.
+**Website:** [Visit Website](https://freshreadythailand.com/)
+
+### Kloudify
+**Industry:** Technology / Managed IT Services
+**Type:** Corporate services website
+**Development Focus:** WordPress with Bricks Builder, extensive service and case-study architecture
+**Role:** Web / WordPress Developer
+
+An Australian Microsoft Solutions Partner site covering cybersecurity, cloud infrastructure, and managed IT services, built with a multi-tier service navigation structure and lead-generation contact forms.
+**Website:** [Visit Website](https://kloudify.com/)
+
+### MJets
+**Industry:** Travel & Aviation
+**Type:** Private aviation booking site
+**Development Focus:** WordPress-based build with a custom flight search / quote request interface
+**Role:** Web / WordPress Developer
+
+A private jet charter company website based in Bangkok, featuring an airport-to-airport quote request flow and service pages for charter, maintenance, and ground handling.
+**Website:** [Visit Website](https://mjets.com/)
+
+### MBAANZ (Muslim Business Association of Aotearoa New Zealand)
+**Industry:** Nonprofit / Professional Association
+**Type:** Membership organization website
+**Development Focus:** WordPress with Elementor, membership tiers, and a verified business directory
+**Role:** Web / WordPress Developer
+
+A national membership body site with tiered membership plans, a searchable business directory, event listings, and application/registration forms.
+**Website:** [Visit Website](https://mbaanz.org.nz/)
+
+### Navigator Research
+**Industry:** Research / Public Policy
+**Type:** Editorial and research publication site
+**Development Focus:** WordPress with WPBakery Page Builder
+**Role:** Web / WordPress Developer
+
+A polling and messaging research organization's site, publishing ongoing research reports with a structured content/news system and newsletter subscription forms.
+**Website:** [Visit Website](https://navigatorresearch.org/)
+
+### FabioLabs
+**Industry:** Web Development / Digital Agency
+**Type:** Agency website
+**Development Focus:** WordPress with Elementor, service pages, testimonials, and WooCommerce-related service offerings
+**Role:** Web / WordPress Developer
+
+The agency's own website, showcasing web design, maintenance, e-commerce, SEO, security, and malware removal services.
+**Website:** [Visit Website](https://fabiolabs.com/)
+
+### Group 4 Wheels
+**Industry:** Automotive
+**Type:** Motorsport wheel manufacturer website
+**Development Focus:** Web development project
+**Role:** Web / WordPress Developer
+
+A UK-based motorsport-inspired wheel manufacturer's website presenting product information and company background.
+**Website:** [Visit Website](https://group4wheels.com/)
+
+### Annie's Animal Ark
+**Industry:** Pet Services
+**Type:** Pet relocation / shipping service website (production site plus a staging environment on FabioLabs' infrastructure)
+**Development Focus:** WordPress, custom theme, service and contact-form pages
+**Role:** Web / WordPress Developer
+
+A Cyprus-based pet shipping and relocation company site covering services such as travel documentation, boarding, veterinary coordination, and flight logistics, with a corresponding staging environment used during development.
+**Website:** [Visit Website](https://www.anniesanimalark.com/) · [Staging](https://animalark.fabiolabs.com/)
+
+### Island T.E.A. Experiences
+**Industry:** Travel & Hospitality
+**Type:** Villa/hotel booking website
+**Development Focus:** WordPress with Elementor, booking cart, and accommodation post types with amenities taxonomy
+**Role:** Web / WordPress Developer
+
+A Grenada-based Caribbean villa and hospitality booking site with room search, per-accommodation pricing, and add-on services such as airport pickup and catering.
+**Website:** [Visit Website](https://islandexperiences.co/)
+
+### Demo / Development Environment Projects
+**Industry:** N/A (internal / staging use)
+**Type:** Development and demo environments
+**Development Focus:** Not publicly verifiable
+**Role:** Web / WordPress Developer
+
+The following are hosted on a shared demo/development domain and are not publicly accessible for verification; they are presented here as development or staging environments rather than production businesses:
+- [ea.4demo.dev](https://ea.4demo.dev)
+- [sqdc.4demo.dev](https://sqdc.4demo.dev/)
+- [insight.4demo.dev](https://insight.4demo.dev/)
+- [tgc.4demo.dev](https://tgc.4demo.dev/)
 
 ---
 
-## WordPress Expertise
+## 🗂️ Project Categories
 
-- Custom WordPress websites built around real business and organizational needs
-- Custom post types and taxonomies for structured, dynamic content (films, accommodations, campaigns, events, case studies, articles)
-- ACF-based content systems for editor-friendly, maintainable pages
-- Custom theme development on both **Bricks Builder** and **Elementor**
-- WooCommerce storefronts with custom product taxonomies and gated/wholesale pricing
-- Multilingual WordPress builds using **WPML** (Thai/English site pairs)
-- Third-party API and platform integrations: Ticketmaster, Formstack, Mailchimp, Classy, Mobilize, Instagram Feed, Google Maps, LINE messaging, and external data platforms
-- Performance optimization using caching (WP Rocket, NitroPack) and asset-delivery best practices
-- WordPress security, updates, and ongoing troubleshooting
-- Cross-team handoffs on multi-developer, agency-built WordPress sites
-
----
-
-## Development Approach
-
-I aim for WordPress builds that hold up after launch, not just at delivery:
-
-- **Maintainable code** over clever one-offs
-- **Scalable architecture** — custom post types, taxonomies, and reusable components instead of hardcoded pages
-- **Client-friendly editing** so non-technical teams can actually manage their own content
-- **Responsive implementation** tested across real devices, not just breakpoints
-- **Performance and security** treated as ongoing concerns, not launch-day checkboxes
-- **Reliable production websites** — the goal is a site that keeps working, not just one that looks right in a demo
+| Category | Projects |
+|---|---|
+| Food & Health | Fresh Ready Thailand |
+| Technology / Professional Services | Kloudify, FabioLabs |
+| Travel & Hospitality | MJets, Island T.E.A. Experiences |
+| Nonprofit / Organization | MBAANZ |
+| Research | Navigator Research |
+| Automotive | Group 4 Wheels |
+| Pet Services | Annie's Animal Ark |
+| Development / Demo Environments | ea, sqdc, insight, tgc (4demo.dev) |
 
 ---
 
-## GitHub
+## 🧠 WordPress Expertise
 
-**GitHub:** [@Sohag446](https://github.com/Sohag446)
-
-I use GitHub for version control and code collaboration on WordPress theme and plugin development. Check out my pinned repositories above for examples of custom development work.
-
----
-
-## Connect With Me
-
-I'm open to WordPress development projects, collaborations, and freelance/contract work.
-
-- 🌐 **GitHub:** [github.com/Sohag446](https://github.com/Sohag446)
-- 💼 Reach out via GitHub for project inquiries and collaboration
+- Custom WordPress development across page-builder ecosystems (Bricks, Elementor)
+- ACF-driven dynamic content structures
+- WooCommerce store setup and configuration
+- Responsive, mobile-first layout development
+- Multilingual WordPress setups (WPML)
+- Website maintenance, updates, and troubleshooting
+- Working across varied content types: booking systems, directories, editorial/news publishing, and service-based sites
 
 ---
 
-<p align="center"><i>WordPress Development · Custom WordPress · PHP · JavaScript · ACF · ACF Pro · WooCommerce · Bricks Builder · Elementor · Custom Themes · Custom Plugins · API Integration · Dynamic Content · Performance Optimization · WordPress Security</i></p>
+## 💡 Development Philosophy
+
+- Write clean, maintainable code
+- Build responsive, accessible interfaces
+- Favor reusable components and structured content over one-off solutions
+- Keep production sites stable through careful maintenance and testing
+- Pay attention to the small details that affect real users
+
+---
+
+## 📫 Contact
+
+Contact details are not publicly listed here. Feel free to reach out through the projects and platforms linked above.
+
+---
+
+<div align="center">
+
+*Thanks for visiting my profile!*
+
+</div>
