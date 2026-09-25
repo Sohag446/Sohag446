@@ -16,6 +16,50 @@ I build custom WordPress websites for real businesses, agencies, and organizatio
 
 ---
 
+## Career Journey
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔹 Project Manager & Co-Founder — FabioLabs
+**Current**
+
+Leading web development projects and contributing hands-on as a WordPress Developer. Working on custom WordPress development, Bricks and Elementor builds, WooCommerce solutions, dynamic content systems, API integrations, website performance, security, maintenance, and client-focused web solutions.
+
+</td>
+<td width="50%" valign="top">
+
+### 🔹 Web Developer — Alokio
+**Previous**
+
+Worked as a part-time Web Developer after completing my internship, taking on real-world WordPress and web development tasks, website customization, troubleshooting, and production-level development work.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🔹 Web Development Intern — Alokio
+**Earlier**
+
+Started my professional web development journey at Alokio as a Web Development Intern, building a strong foundation in HTML, CSS, JavaScript, PHP, WordPress, and practical website development.
+
+</td>
+<td width="50%" valign="top">
+
+### 🔹 Career Progression
+**Intern → Web Developer → Project Manager & Co-Founder**
+
+Progressed from learning core web development fundamentals to handling real-world development responsibilities and eventually taking on project leadership and agency-level responsibilities at FabioLabs.
+
+</td>
+</tr>
+</table>
+
+---
+
 ## What I Do
 
 - **Custom WordPress Development** — bespoke themes and site architecture built around a client's actual content model, not a generic template
