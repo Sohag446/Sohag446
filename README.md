@@ -2,7 +2,7 @@
 
 # Hi, I'm Esrat Jahan Sweety 👋
 
-### Senior Web Developer specializing in WordPress development, custom web solutions, and modern frontend implementation
+### Senior Web Developer · WordPress Specialist · Custom Web Solutions
 
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)](#)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)](#)
@@ -13,222 +13,200 @@
 [![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat&logo=elementor&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](#)
 
+I build custom WordPress experiences — from bilingual brand sites to booking platforms — currently as a **Senior Web Developer at FabioLabs**.
+
 </div>
 
-I'm a WordPress and web developer with real-world, client-facing development experience — currently working as a **Senior Web Developer at FabioLabs**, following an earlier **Web Development Internship at Alokio**. My work spans custom WordPress builds, page-builder-driven sites (Bricks, Elementor), dynamic content systems, WooCommerce implementations, and ongoing website maintenance and troubleshooting across a range of industries.
+---
+
+## Experience
+
+**Senior Web Developer · FabioLabs** — *Current*
+Custom WordPress builds, page-builder development (Bricks / Elementor), dynamic content with ACF, WooCommerce setup, and ongoing site maintenance across a range of client industries.
+
+**Web Development Intern · Alokio** — *Previous*
+Early-career foundation in front-end and WordPress fundamentals, leading into full-time development work.
 
 ---
 
-## 📈 Career Snapshot
+## Technical Stack
 
-```
-Senior Web Developer — FabioLabs
-        Current
-            ↓
-Web Development Intern — Alokio
-      Previous Experience
-```
+**WordPress** `WordPress` `ACF` `ACF Pro` `WooCommerce` `WPML`
+**Builders** `Bricks Builder` `Elementor` `WPBakery`
+**Frontend** `HTML5` `CSS3` `JavaScript` `jQuery`
+**Backend** `PHP` `REST APIs`
+**Tools** `Git` `GitHub`
 
----
-
-## 💼 Experience
-
-### Senior Web Developer — FabioLabs
-*Current*
-
-FabioLabs is a web development agency offering website design & development, website maintenance, e-commerce (WooCommerce) solutions, SEO, website security, and malware removal services. In this role, my work centers on:
-
-- Custom WordPress development and site builds
-- Frontend implementation and responsive layout work
-- Dynamic content structures using ACF / ACF Pro
-- Page-builder development with Bricks and Elementor
-- WooCommerce store setup and configuration
-- Website maintenance, updates, and troubleshooting
-
-*(Specific client assignments, exact dates, and team structure are not publicly documented and are not claimed here.)*
-
-### Web Development Intern — Alokio
-*Previous Experience*
-
-An early-career internship that built the foundation for my professional web development path, developing hands-on experience with front-end and WordPress fundamentals before moving into a full development role. Public information verifying further internship-specific details was not available, so no additional claims are made about this period.
+**Experience across:** Food & Health · Technology · Travel & Aviation · Nonprofit / Organization · Research · Automotive · Pet Services · Hospitality
 
 ---
 
-## 🛠️ What I Do
+## Featured Projects
 
-- WordPress Development
-- Custom WordPress Development
-- ACF / ACF Pro (dynamic content)
-- Bricks Builder
-- Elementor
-- WooCommerce
-- PHP
-- JavaScript
-- Responsive Web Development
-- Website Maintenance & Troubleshooting
-
----
-
-## 🧰 Technical Stack
-
-**WordPress**
-`WordPress` `ACF` `ACF Pro` `WooCommerce`
-
-**Frontend**
-`HTML5` `CSS3` `JavaScript` `jQuery`
-
-**Page Builders**
-`Bricks Builder` `Elementor`
-
-**Backend**
-`PHP` `WordPress APIs` `REST APIs`
-
-**Tools**
-`Git` `GitHub`
-
----
-
-## 🚀 Selected Projects
-
-Projects below reflect development work on live client and organizational websites. Technologies listed for each project are limited to what could be reasonably confirmed through direct research; nothing is assumed.
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### Fresh Ready Thailand
-**Industry:** Food & Health
-**Type:** Bilingual (Thai/English) brand website
-**Development Focus:** WordPress with Bricks Builder and WPML multilingual setup
-**Role:** Web / WordPress Developer
+**Food & Health**
 
-A ready-to-cook, health-focused meal brand site featuring a bilingual content structure, product/menu pages, and LINE-based ordering integration.
-**Website:** [Visit Website](https://freshreadythailand.com/)
+Bilingual (Thai/English) health-focused meal brand site with structured product/menu pages and LINE-based ordering integration.
+
+`WordPress` `Bricks` `WPML`
+
+**[View Project ↗](https://freshreadythailand.com/)**
+
+</td>
+<td width="50%" valign="top">
 
 ### Kloudify
-**Industry:** Technology / Managed IT Services
-**Type:** Corporate services website
-**Development Focus:** WordPress with Bricks Builder, extensive service and case-study architecture
-**Role:** Web / WordPress Developer
+**Technology · Managed IT**
 
-An Australian Microsoft Solutions Partner site covering cybersecurity, cloud infrastructure, and managed IT services, built with a multi-tier service navigation structure and lead-generation contact forms.
-**Website:** [Visit Website](https://kloudify.com/)
+Corporate site for an Australian Microsoft Solutions Partner, covering cybersecurity, cloud infrastructure, and managed IT services.
+
+`WordPress` `Bricks`
+
+**[View Project ↗](https://kloudify.com/)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### MJets
-**Industry:** Travel & Aviation
-**Type:** Private aviation booking site
-**Development Focus:** WordPress-based build with a custom flight search / quote request interface
-**Role:** Web / WordPress Developer
+**Travel & Aviation**
 
-A private jet charter company website based in Bangkok, featuring an airport-to-airport quote request flow and service pages for charter, maintenance, and ground handling.
-**Website:** [Visit Website](https://mjets.com/)
+Private jet charter website for a Bangkok-based operator, featuring an airport-to-airport quote request flow and service pages.
 
-### MBAANZ (Muslim Business Association of Aotearoa New Zealand)
-**Industry:** Nonprofit / Professional Association
-**Type:** Membership organization website
-**Development Focus:** WordPress with Elementor, membership tiers, and a verified business directory
-**Role:** Web / WordPress Developer
+`WordPress`
 
-A national membership body site with tiered membership plans, a searchable business directory, event listings, and application/registration forms.
-**Website:** [Visit Website](https://mbaanz.org.nz/)
+**[View Project ↗](https://mjets.com/)**
 
-### Navigator Research
-**Industry:** Research / Public Policy
-**Type:** Editorial and research publication site
-**Development Focus:** WordPress with WPBakery Page Builder
-**Role:** Web / WordPress Developer
+</td>
+<td width="50%" valign="top">
 
-A polling and messaging research organization's site, publishing ongoing research reports with a structured content/news system and newsletter subscription forms.
-**Website:** [Visit Website](https://navigatorresearch.org/)
+### MBAANZ
+**Nonprofit · Professional Association**
 
-### FabioLabs
-**Industry:** Web Development / Digital Agency
-**Type:** Agency website
-**Development Focus:** WordPress with Elementor, service pages, testimonials, and WooCommerce-related service offerings
-**Role:** Web / WordPress Developer
+Membership organization site with tiered plans, a searchable business directory, event listings, and registration forms.
 
-The agency's own website, showcasing web design, maintenance, e-commerce, SEO, security, and malware removal services.
-**Website:** [Visit Website](https://fabiolabs.com/)
+`WordPress` `Elementor`
+
+**[View Project ↗](https://mbaanz.org.nz/)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### Group 4 Wheels
-**Industry:** Automotive
-**Type:** Motorsport wheel manufacturer website
-**Development Focus:** Web development project
-**Role:** Web / WordPress Developer
+**Automotive**
 
-A UK-based motorsport-inspired wheel manufacturer's website presenting product information and company background.
-**Website:** [Visit Website](https://group4wheels.com/)
+UK-based motorsport-inspired wheel manufacturer site presenting product information and company background.
+
+**[View Project ↗](https://group4wheels.com/)**
+
+</td>
+<td width="50%" valign="top">
 
 ### Annie's Animal Ark
-**Industry:** Pet Services
-**Type:** Pet relocation / shipping service website (production site plus a staging environment on FabioLabs' infrastructure)
-**Development Focus:** WordPress, custom theme, service and contact-form pages
-**Role:** Web / WordPress Developer
+**Pet Services**
 
-A Cyprus-based pet shipping and relocation company site covering services such as travel documentation, boarding, veterinary coordination, and flight logistics, with a corresponding staging environment used during development.
-**Website:** [Visit Website](https://www.anniesanimalark.com/) · [Staging](https://animalark.fabiolabs.com/)
+Cyprus-based pet relocation and shipping company site covering travel documentation, boarding, veterinary coordination, and flight logistics.
+
+`WordPress`
+
+**[Live Site ↗](https://www.anniesanimalark.com/) · [Staging ↗](https://animalark.fabiolabs.com/)**
+
+</td>
+</tr>
+</table>
+
+---
+
+## More Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Navigator Research
+**Research · Public Policy**
+
+Polling and messaging research organization site publishing ongoing reports with structured content and newsletter forms.
+
+`WordPress` `WPBakery`
+
+**[View Project ↗](https://navigatorresearch.org/)**
+
+</td>
+<td width="50%" valign="top">
+
+### FabioLabs
+**Web Development Agency**
+
+Agency website showcasing web design, maintenance, e-commerce, SEO, and security services.
+
+`WordPress` `Elementor`
+
+**[View Project ↗](https://fabiolabs.com/)**
+
+</td>
+</tr>
+<tr>
+<td width="100%" colspan="2" valign="top">
 
 ### Island T.E.A. Experiences
-**Industry:** Travel & Hospitality
-**Type:** Villa/hotel booking website
-**Development Focus:** WordPress with Elementor, booking cart, and accommodation post types with amenities taxonomy
-**Role:** Web / WordPress Developer
+**Travel & Hospitality**
 
-A Grenada-based Caribbean villa and hospitality booking site with room search, per-accommodation pricing, and add-on services such as airport pickup and catering.
-**Website:** [Visit Website](https://islandexperiences.co/)
+Grenada-based Caribbean villa booking site with room search, per-accommodation pricing, and add-on services like airport pickup and catering.
 
-### Demo / Development Environment Projects
-**Industry:** N/A (internal / staging use)
-**Type:** Development and demo environments
-**Development Focus:** Not publicly verifiable
-**Role:** Web / WordPress Developer
+`WordPress` `Elementor`
 
-The following are hosted on a shared demo/development domain and are not publicly accessible for verification; they are presented here as development or staging environments rather than production businesses:
-- [ea.4demo.dev](https://ea.4demo.dev)
-- [sqdc.4demo.dev](https://sqdc.4demo.dev/)
-- [insight.4demo.dev](https://insight.4demo.dev/)
-- [tgc.4demo.dev](https://tgc.4demo.dev/)
+**[View Project ↗](https://islandexperiences.co/)**
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🗂️ Project Categories
+## Development & Demo Projects
 
-| Category | Projects |
-|---|---|
-| Food & Health | Fresh Ready Thailand |
-| Technology / Professional Services | Kloudify, FabioLabs |
-| Travel & Hospitality | MJets, Island T.E.A. Experiences |
-| Nonprofit / Organization | MBAANZ |
-| Research | Navigator Research |
-| Automotive | Group 4 Wheels |
-| Pet Services | Annie's Animal Ark |
-| Development / Demo Environments | ea, sqdc, insight, tgc (4demo.dev) |
+Hosted on a shared demo/development domain — presented as staging environments rather than production businesses.
+
+| Project | Environment | Link |
+|---|---|---|
+| EA | Demo / Development | [View ↗](https://ea.4demo.dev) |
+| SQDC | Demo / Development | [View ↗](https://sqdc.4demo.dev/) |
+| Insight | Demo / Development | [View ↗](https://insight.4demo.dev/) |
+| TGC | Demo / Development | [View ↗](https://tgc.4demo.dev/) |
 
 ---
 
-## 🧠 WordPress Expertise
+## WordPress Expertise
 
-- Custom WordPress development across page-builder ecosystems (Bricks, Elementor)
-- ACF-driven dynamic content structures
-- WooCommerce store setup and configuration
-- Responsive, mobile-first layout development
-- Multilingual WordPress setups (WPML)
-- Website maintenance, updates, and troubleshooting
-- Working across varied content types: booking systems, directories, editorial/news publishing, and service-based sites
+| WordPress | Content & Builders | Commerce | Development |
+|---|---|---|---|
+| Custom Development | ACF / ACF Pro | WooCommerce | PHP |
+| Multilingual (WPML) | Bricks Builder | Store Setup | REST APIs |
+| Maintenance & Troubleshooting | Elementor / WPBakery | | JavaScript |
 
 ---
 
-## 💡 Development Philosophy
+## Development Philosophy
 
 - Write clean, maintainable code
 - Build responsive, accessible interfaces
-- Favor reusable components and structured content over one-off solutions
+- Favor reusable, structured content over one-off solutions
 - Keep production sites stable through careful maintenance and testing
 - Pay attention to the small details that affect real users
 
 ---
 
-## 📫 Contact
+## Contact
 
 Contact details are not publicly listed here. Feel free to reach out through the projects and platforms linked above.
-
----
 
 <div align="center">
 
